@@ -721,17 +721,13 @@ model-monitoring-system/
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
----
+## 👤 Author - Rishav Aryan
 
-## 👤 Author
 
-**Model Validation Team**
 
-*Built for FICO-style model validation demonstration*
+
 
 ---
 
